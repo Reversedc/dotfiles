@@ -6,6 +6,12 @@ https://github.com/lominoss-git/awesome-dots
 
 [notes]
 
+issues as off now
+
+reloading awesome also reloads polybar
+simple press superkey+b twice to fix
+will fix this soon its only because off my laziness in rc.lua
+
 /titlebars go into ~/.config/awesome
 [alacritty]
 
