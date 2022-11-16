@@ -1,3 +1,8 @@
+[credits]
+
+forked from
+
+https://github.com/lominoss-git/awesome-dots
 
 [notes]
 
