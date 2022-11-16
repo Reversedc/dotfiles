@@ -13,6 +13,7 @@ edit the dir path to theme
 
 [needed]
 
+flameshot [ gui ] ( make bin file, and edit dir or use same dir used in rc.lua for bind )
 alacritty
 rofi
 picom/compton
