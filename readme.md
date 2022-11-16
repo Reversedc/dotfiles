@@ -18,6 +18,7 @@ firefox - just google firefox nord theme and download :)
 edit rc.lua near bottom for wallpapers and dirs so on
 
 /titlebars go into ~/.config/awesome
+
 [alacritty]
 
 edit the dir path to theme
