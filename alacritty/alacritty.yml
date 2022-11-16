@@ -1,10 +1,8 @@
 import:
-  # uncomment the flavour you want below:
+  # example
 #  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
-#  - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
-#  - ~/.config/alacritty/catppuccin/catppuccin-frappe.yml
-#  - ~/.config/alacritty/catppuccin/catppuccin-latte.yml
-  - /home/e/Documents/alacritty-master/dracula.yml
+#  - dracula.yml is a theme that matches its just edited to a sleeker nord theme! enjoy
+  - /dir/to/theme/theme.yml 
 window:
   dimensions:
     columns: 50
