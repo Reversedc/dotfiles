@@ -15,6 +15,8 @@ discord auto opens - remove near bottom off rc.lua if u dont like it
 
 firefox - just google firefox nord theme and download :)
 
+edit rc.lua near bottom for wallpapers and dirs so on
+
 /titlebars go into ~/.config/awesome
 [alacritty]
 
