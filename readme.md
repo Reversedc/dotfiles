@@ -1,6 +1,12 @@
-/titlebars go into ~/.config/awesome
 
-needed:
+[notes]
+
+/titlebars go into ~/.config/awesome
+[alacritty]
+
+edit the dir path to theme
+
+[needed]
 
 alacritty
 rofi
