@@ -11,6 +11,7 @@ issues as off now
 reloading awesome also reloads polybar
 simple press superkey+b twice to fix
 will fix this soon its only because off my laziness in rc.lua
+discord auto opens - remove near bottom off rc.lua if u dont like it
 
 /titlebars go into ~/.config/awesome
 [alacritty]
